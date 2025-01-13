@@ -9,9 +9,7 @@ Hi! I'm a B.Tech Computer Science and Engineering (CSE) student passionate about
   - C++
   
 - **Tools & Technologies:**
-  - Git & GitHub
   - Data Structures & Algorithms
-  - Problem Solving
 
 You can explore my repositories to see all the code and contributions.
 
