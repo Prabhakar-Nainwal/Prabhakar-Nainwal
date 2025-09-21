@@ -7,10 +7,12 @@
 <p align="center">
   <a href="https://linkedin.com/in/prabhakarnainwal" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
+  
   <a href="https://github.com/Prabhakar-Nainwal" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="40" height="40"/>
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
+  
   <a href="mailto:prabhakarnainwal@hotmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="40" height="40"/>
   </a>
