@@ -1,37 +1,71 @@
-<h1 align="center">Hi 👋, I'm Prabhakar Nainwal</h1>
-<h3 align="center">Software Developer | Web & ML Enthusiast</h3>
-<p align="left">I am a B.Tech CSE 3rd-year student, passionate about software development and web technologies. I enjoy building projects in web development and machine learning, and I am constantly learning new skills to grow as a developer.</p>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Prabhakar Nainwal</h1></summary>
+  </ul>
+</div>
+
+
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Always Learning • Always Building 🚀</h2></summary>
+  </ul>
+</div>
+
+<!--Intro start-->
+- 🎓 B.Tech CSE Student  
+
+- 🌱 Currently learning **Advanced Web Development & Machine Learning Deployment**
+
+- 💻 Interested in **Full-Stack Development, AI/ML, and DSA**
+
+- ⚙️ Building projects in **React, Node.js, MongoDB, ML**
+
+- 📫 Reach me at **prabhakarnainwal@hotmail.com**
+
+- 🌐 GitHub: **https://github.com/Prabhakar-Nainwal**
+<!--Intro end-->
+
 ---
 
-### 🔗 Connect with me
+
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know 👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+
+<!--tech stack icons-->
 <p align="center">
-  <a href="https://linkedin.com/in/prabhakarnainwal" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  
-  <a href="https://github.com/Prabhakar-Nainwal" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="40" height="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  
-  <a href="mailto:prabhakarnainwal@hotmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="40" height="40"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react,nodejs,mongodb,mysql,git,github,postman,vscode&perline=14" />
   </a>
 </p>
 
 ---
-
-### 💻 Languages & Tools
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.svg" alt="Git" width="40" height="40"/>
-</p>
+<a href="https://linkedin.com/in/prabhakarnainwal" target="blank">
+<img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" height="50" width="50" />
+</a>
 
----
+<a href="mailto:prabhakarnainwal@hotmail.com" target="blank">
+<img align="center" src="https://img.icons8.com/?size=100&id=eFPBXQop6V2m&format=png&color=000000" height="60" width="60" />
+</a>
+
+<a href="https://github.com/Prabhakar-Nainwal" target="blank">
+<img align="center" src="https://img.icons8.com/?size=100&id=sbhfmWq4KRr1&format=png&color=000000" height="70" width="70" />
+</a>
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
