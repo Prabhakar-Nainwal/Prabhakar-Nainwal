@@ -1,71 +1,115 @@
-# Hi, I'm Prabhakar! 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=9061F9&text=PRABHAKAR%20NAINWAL&height=100&fontSize=50" alt="Typo Banner" />
+  <br />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9061F9&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;" alt="Typing Animation" />
+  <br />
 
-<!-- Dynamic Typewriter Effect -->
+  [![B.Tech Computer Science](https://img.shields.io/badge/Education-B.Tech%20Computer%20Science-7c3aed?style=flat-square&logo=graduation-cap&logoColor=white)](https://github.com/Prabhakar-Nainwal)
+  [![Location](https://img.shields.io/badge/Location-Nainital,%20India-4f46e5?style=flat-square&logo=google-maps&logoColor=white)](https://www.google.com/maps/search/?api=1&query=Nainital,+Uttarakhand)
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Live-9333ea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://prabhakar-nainwal-portfolio.vercel.app)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2563eb?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prabhakarnainwal)
+  [![Email](https://img.shields.io/badge/Email-Contact-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prabhakarnainwal@hotmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-Follow-4f46e5?style=for-the-badge&logo=github&logicColor=white)](https://github.com/Prabhakar-Nainwal)
+
+  <br />
+  
+  ![](https://komarev.com/ghpvc/?username=Prabhakar-Nainwal&color=7c3aed&style=flat-square&label=PROFILE+VIEWS)
+  ![](https://img.shields.io/github/followers/Prabhakar-Nainwal?label=FOLLOWERS&style=flat-square&color=4f46e5)
+  ![](https://img.shields.io/github/stars/Prabhakar-Nainwal?style=flat-square&color=9333ea&label=STARS)
+</div>
+
+
+---
+
+## 02. Tech Stack
+
+### Languages
 <p align="left">
-  <a href="https://github.com/Prabhakar-Nainwal">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=38BDF8&vCenter=true&width=450&lines=Full+Stack+Developer;Computer+Science+Student;Compiler+Enthusiast" alt="Typing SVG" />
-  </a>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
-I bridge the gap between building highly responsive, pixel-perfect user interfaces and solving complex low-level algorithmic challenges. Whether I am crafting a seamless MERN stack application or designing compiler architectures, I love exploring how software works from the interface down to the machine level.
-
----
-
-## 💻 Featured Projects
-
-### 🛒 SHIFT E-commerce Platform
-<p align="center">
-  <a href="https://github.com/Prabhakar-Nainwal/shift-ecommerce">
-    <img src="https://ik.imagekit.io/d6e6zfavs/Project_Urban_Shop/screenshots/main.png" alt="SHIFT E-commerce Banner" width="60%" style="border-radius: 8px; max-height: 180px; object-fit: cover;"/>
-  </a>
+### Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
 
-*A robust, secure, and deployment-ready MERN-stack online shopping marketplace.*
-* **Core Tech:** React, Node.js, Express, MongoDB, Tailwind CSS, Cashfree Payment Gateway
-* **Key Highlight:** Features advanced role-based access control (RBAC), secure OTP-based authentication flows via Nodemailer, and dynamic data modeling.
-
----
-
-### 🚀 VISION-PARK
-<p align="center">
-  <a href="https://github.com/Prabhakar-Nainwal/VISION-PARK">
-    <img src="https://ik.imagekit.io/d6e6zfavs/Project_Vision_Park/vision_park.png" alt="VISION-PARK Traffic Management Banner" width="60%" style="border-radius: 8px; max-height: 180px; object-fit: cover;"/>
-  </a>
+### Backend & Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT" />
 </p>
 
-*An automated traffic and parking management system tailored for complex hill station infrastructure.*
-* **Core Tech:** YOLOv8, EasyOCR (for ANPR), Full-Stack Integration
-* **Key Highlight:** Designed to optimize high-altitude parking management using computer vision and interactive dashboard analytics.
+### Cloud, DevOps & Tooling
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## 03. Featured Projects
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<details>
+<summary><b>🛒 SHIFT E-commerce Platform</b></summary>
+<br />
 
-### ⚙️ Backend & Databases
-![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=5EA8E6)
+<table>
+  <tr>
+    <td valign="top" width="55%">
+      <h4><b>Technologies Used:</b></h4>
+      <p>React, Node.js, Express, MongoDB, Tailwind CSS, Cashfree API</p>
+      <br />
+      <h4><b>Description:</b></h4>
+      <p>A robust, secure, and deployment-ready MERN-stack online shopping marketplace. Features role-based dashboard control, ot based authentication and secure payments using cashfree sandbox.</p>
+      <br />
+      🔗 <a href="https://github.com/Prabhakar-Nainwal/shift-ecommerce"><b>View Repository</b></a>
+    </td>
+    <td valign="top" width="45%">
+      <img src="https://ik.imagekit.io/d6e6zfavs/Project_Urban_Shop/screenshots/main.png" alt="SHIFT E-commerce Preview" style="border-radius: 12px; width: 100%; border: 1px solid #30363d; box-shadow: 0 4px 12px rgba(0,0,0,0.3);"/>
+    </td>
+  </tr>
+</table>
+</details>
 
-### 🧠 Languages & Systems Engineering
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<details>
+<summary><b>🚀 VISION-PARK</b></summary>
+<br />
+
+<table>
+  <tr>
+    <td valign="top" width="55%">
+      <h4><b>Technologies Used:</b></h4>
+      <p>YOLOv8, EasyOCR, Full-Stack Architecture, Python</p>
+      <br />
+      <h4><b>Description:</b></h4>
+      <p>An automated traffic and infrastructure management platform optimized for parking management. Features real-time analysis with EasyOCR character processing pipelines for tracking physical allocations cleanly across local database logs.</p>
+      <br />
+      🔗 <a href="https://github.com/Prabhakar-Nainwal/VISION-PARK"><b>View Repository</b></a>
+    </td>
+    <td valign="top" width="45%">
+      <img src="https://ik.imagekit.io/d6e6zfavs/Project_Vision_Park/vision_park.png" alt="VISION-PARK Preview" style="border-radius: 12px; width: 100%; border: 1px solid #30363d; box-shadow: 0 4px 12px rgba(0,0,0,0.3);"/>
+    </td>
+  </tr>
+</table>
+</details>
 
 ---
 
-## 📫 Let's Connect!
-* **Learning & Practicing:** Competitive programming (focusing on advanced sliding window & array-based algorithms in C++).
-* **Collaboration:** Open to collaborating on full-stack web applications, open-source compiler toolchains, or performance-driven tech.
-* **GitHub:** [@Prabhakar-Nainwal](https://github.com/Prabhakar-Nainwal)
+## 04. Current Focus
 
----
+```yaml
+building:
+  - Scalable products
+  - Production-ready full stack web applications
+exploring:
+  - LLM , AI integration to solve real world problems
+```
